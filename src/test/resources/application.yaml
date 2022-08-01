@@ -1,0 +1,5 @@
+fetcher:
+  loadDataRunner:
+    enabled: false
+  rickAndMortyApi:
+    url: https://rickandmortyapi.com/api
